@@ -7,12 +7,17 @@
 <a href="https://www.linkedin.com/in/neil-patel-781ab114/"><img src="https://img.shields.io/badge/-Portfolio-13AFF0?style=flat&logo=github&logoColor=white" alt="portfolio" height="40"></a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=neilcpatel&style=for-the-badge&color=blue" alt="neilcpatel"  height="25">
+
 ---
 
 ## About
 
+<div align="left">
+
 - DevOps Manager
 - Background in Industrial & Systems Engineering, IT, and fullstack coding.
+
+</div>
 
 ---
 
@@ -43,6 +48,7 @@
 <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS" height="30">
 
 ---
+
 <img src="https://github-readme-stats.vercel.app/api?username=neilcpatel&theme=nord&hide_border=true&show_icons=true" alt="stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilcpatel&layout=compact&theme=nord&hide_border=true" alt="languages">
 
