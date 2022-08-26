@@ -49,7 +49,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=neilcpatel&theme=nord&hide_border=true&show_icons=true" alt="stats">
+<img src="https://github-readme-stats.vercel.app/api?username=neilcpatel&theme=nord&hide_border=true&show_icons=true&count_private=true" alt="stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilcpatel&layout=compact&theme=nord&hide_border=true" alt="languages">
 
 </div>
