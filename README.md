@@ -25,6 +25,9 @@
 <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="bootstrap" height="30">
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap" height="30">
 
+<img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="npm" height="30">
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" alt="npm" height="30">
+
 <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="npm" height="30">
 <img src="https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white&style=for-the-badge" alt="composer" height="30">
 
@@ -44,4 +47,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilcpatel&layout=compact&theme=nord&hide_border=true" alt="languages">
 
 </div>
-<!-- test gpg commit -->
