@@ -45,6 +45,9 @@
 <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="php" height="30">
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="python" height="30">
 
+<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell" height="30">
+<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible" height="30">
+
 <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS" height="30">
 
 ---
