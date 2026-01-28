@@ -3,8 +3,9 @@
 # Neil Patel
 
 <a href="https://www.linkedin.com/in/neil-patel-devops/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" height="40"></a>
-<a href="https://www.linkedin.com/in/neil-patel-devops/"><img src="https://img.shields.io/badge/-Resume-2088FF?style=flat&logo=adobeacrobatreader&logoColor=white" alt="resume" height="40"></a>
-<a href="https://www.linkedin.com/in/neil-patel-devops/"><img src="https://img.shields.io/badge/-Portfolio-13AFF0?style=flat&logo=github&logoColor=white" alt="portfolio" height="40"></a>
+<a href="https://docs.google.com/document/d/1oaMWhYNhI136_v-_NduNpQsbvyJUqPJzdNji8OZ4UN8/"><img src="https://img.shields.io/badge/-Resume-2088FF?style=flat&logoColor=white" alt="resume" height="40"></a>
+<a href="https://github.com/neilcpatel/"><img src="https://img.shields.io/badge/-Portfolio-13AFF0?style=flat&logo=github&logoColor=white" alt="portfolio" height="40"></a>
+<a href="mailto:neilcpatel@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6494ed?style=flat&logo=Email-Contact&logoColor=white" alt="Email" height="40"></a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=neilcpatel&style=for-the-badge&color=blue" alt="neilcpatel"  height="25">
 
