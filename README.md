@@ -3,7 +3,7 @@
 # Neil Patel
 
 <a href="https://www.linkedin.com/in/neil-patel-devops/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" height="40"></a>
-<a href="https://docs.google.com/document/d/1BtFbjCj6v4xJd4sX3u-qI7yyaVnQv7myZfD4W5I62wk"><img src="https://img.shields.io/badge/-Resume-2088FF?style=flat&logoColor=white" alt="resume" height="40"></a>
+<a href="https://docs.google.com/document/d/13knYu_3CQCq_3aJgN-wlAuvFeK43XTia8O8fNnwEMg8/edit?usp=sharing"><img src="https://img.shields.io/badge/-Resume-2088FF?style=flat&logoColor=white" alt="resume" height="40"></a>
 <a href="https://github.com/neilcpatel/"><img src="https://img.shields.io/badge/-Portfolio-13AFF0?style=flat&logo=github&logoColor=white" alt="portfolio" height="40"></a>
 <a href="mailto:neilcpatel@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6494ed?style=flat&logo=Email-Contact&logoColor=white" alt="Email" height="40"></a>
 <br>
